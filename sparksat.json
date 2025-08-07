@@ -1,0 +1,24 @@
+{
+  "name": "Sparksat",
+  "timestamp": "2025-08-08T00:00:00Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "logoURI": "https://sparksat.app/sparksat-icon.png",
+  "keywords": ["sparksat", "wallet"],
+  "tags": {
+    "sparkwallet": {
+      "name": "Sparksat",
+      "description": "The first full-featured web wallet tool on the Spark protocol"
+    }
+  },
+  "tokens": [
+    {
+      "identifier": "4bdc14a8e6bc350838d65dcc54886c518b5f68962d1dfe603582780d9a7c38b3",
+      "address": "btkn1f0wpf28xhs6sswxkthx9fzrv2x9476yk95wlucp4sfuqmxnu8zesv2gsws",
+      "name": "Snowflake",
+      "symbol": "SNOW",
+      "decimals": 8,
+      "logoURI": "https://sparksat.app/snow.png",
+      "tags": ["sparkwallet"]
+    }
+  ]
+}
