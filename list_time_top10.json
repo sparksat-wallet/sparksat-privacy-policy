@@ -1,4 +1,5 @@
-   {
+[
+       {
         "token_pubkey": "035553851e394eb94e3871191a34034f4233fa07f14d0ab19f06ab9b45f8da711e",
         "name": "Hatahata",
         "symbol": "HATA",
@@ -147,4 +148,5 @@
         "verified": false,
         "progress": "",
         "tokenAddress": "btkn1drwcul639v2fwfz8z56cxuc0neyugpxyp9qreqmrh6krrde4a20sgypavj"
-    },
+    }
+]
